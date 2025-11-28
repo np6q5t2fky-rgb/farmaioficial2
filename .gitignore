@@ -1,0 +1,24 @@
+# Файли середовища
+backend/.env
+backend/venv/
+backend/__pycache__/
+backend/data/*.json
+
+# Node modules
+frontend/node_modules/
+frontend/build/
+frontend/.env.local
+
+# Excel временні файли
+~$*.xlsx
+*.tmp
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
